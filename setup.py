@@ -18,6 +18,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/Gettippi/mega-python/issues"
     },
     license='MIT',
-    packages=['toolbox'],
+    packages=['mega-python'],
     install_requires= req,
 )
